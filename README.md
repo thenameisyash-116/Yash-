@@ -1,3 +1,4 @@
 # Yash-
-This is my first git repositoty
+This is my first git repositoty.
+<br>
 Author - Yash Vaghasiya
